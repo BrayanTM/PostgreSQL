@@ -1,4 +1,6 @@
 --! Funciones Personalizadas
+-- Las funciones personalizadas en PostgreSQL son bloques de código que realizan tareas específicas y pueden ser reutilizadas en consultas SQL.
+-- Se definen utilizando el comando CREATE FUNCTION y pueden aceptar parámetros de entrada y devolver valores.
 
 --? Crear nuestra primer función
 
